@@ -114,11 +114,11 @@ Optimized to:
 ---
 
 ## 📂 Dataset Structure
-fx_data.zip
-###├── EUR_USD.csv
-###├── USD_JPY.csv
-###├── GBP_USD.csv
-###├── USD_CNH.csv
+### fx_data.zip: https://indianinstituteofscience-my.sharepoint.com/personal/asrijan_iisc_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fasrijan%5Fiisc%5Fac%5Fin%2FDocuments%2Ffx%5Fdata%2Ezip&parent=%2Fpersonal%2Fasrijan%5Fiisc%5Fac%5Fin%2FDocuments&ga=1
+### ├── EUR_USD.csv
+### ├── USD_JPY.csv
+### ├── GBP_USD.csv
+### ├── USD_CNH.csv
 
 
 ### CSV Schema
@@ -204,7 +204,6 @@ Jupyter Notebook (StatArb.ipynb)
 
 - ├── StatArb.ipynb
 - ├── strategy_output.csv (you may generate this and save - it's a big file and not useful to upload here)
-- ├── fx_data.zip
 - └── README.md
 
 👨‍💻 Author
