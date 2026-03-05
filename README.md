@@ -1,7 +1,6 @@
 # 📈 Quantitative FX Engine  
 ## Statistical Arbitrage & Market-Neutral Trading  
 
-> Arbitrage Arena – Stage 2 Submission  
 > High-Frequency FX Statistical Arbitrage using 5-second OHLCV data  
 
 ---
@@ -204,7 +203,7 @@ else:
 Jupyter Notebook (StatArb.ipynb)
 
 - ├── StatArb.ipynb
-- ├── strategy_output.csv
+- ├── strategy_output.csv (you may generate this and save - it's a big file and not useful to upload here)
 - ├── fx_data.zip
 - └── README.md
 
