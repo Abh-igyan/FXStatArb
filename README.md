@@ -11,7 +11,9 @@ This project implements a systematic FX statistical arbitrage engine designed to
 
 The strategy operates exclusively on 5-second OHLCV data, uses only historical information (causal execution), and generates robust risk-adjusted returns under realistic constraints.
 
----
+## A Glimpse of the Model Outline
+---<img width="3703" height="1318" alt="image" src="https://github.com/user-attachments/assets/3ac87e7e-144f-493f-bb9e-60f193af7d80" />
+
 
 ## 🧠 Strategy Summary
 
