@@ -200,9 +200,7 @@ else:
 ```
 🛠 Technology Stack
 
-- Python
-- Polars
-- NumPy
+- Python (Pandas, Polars, NumPy)
 - Statsmodels
 
 Jupyter Notebook (StatArb.ipynb)
