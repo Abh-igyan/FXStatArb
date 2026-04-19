@@ -1,6 +1,9 @@
 # 📈 Quantitative FX Engine  
 ## Statistical Arbitrage & Market-Neutral Trading  
 
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![Quant Finance](https://img.shields.io/badge/Domain-Quantitative%20Finance-gold.svg)](#)
+
 > High-Frequency FX Statistical Arbitrage using 5-second OHLCV data  
 
 ---
